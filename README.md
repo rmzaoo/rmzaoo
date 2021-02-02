@@ -16,12 +16,12 @@
 <br />
 <br /> 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/rmzaoo">
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=rmzaoo&show_icons=true&hide_border=true" />
 </a>
 <br /> 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/rmzaoo">
   <img align="left" alt="RMzaoo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rmzaoo&show_icons=true&hide_border=true" />
 </a>
 
