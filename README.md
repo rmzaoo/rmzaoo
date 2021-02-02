@@ -14,8 +14,16 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
+<br /> 
 
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=rmzaoo&show_icons=true&hide_border=true" />
+</a>
+<br /> 
+
+<a href="https://github.com/iampawan">
+  <img align="left" alt="RMzaoo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rmzaoo&show_icons=true&hide_border=true" />
+</a>
 
 [website]: https://rafaelmartins.pt
 [twitter]: https://twitter.com/rmzaoo
