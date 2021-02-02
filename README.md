@@ -1,8 +1,24 @@
+## Hey, I'm Rafael Martins!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I'm looking new projects
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rmzaoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rmzaoo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rmzaoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/rmzaoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rafaelmartins.pt)  
+### Connect with me:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmzaoo&show_icons=true&count_private=true)  
+[<img align="left" alt="rafaelmartins.pt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-![Profile views](https://gpvc.arturio.dev/rmzaoo)  
+<br />
+<br />
+
+
+[website]: https://rafaelmartins.pt
+[twitter]: https://twitter.com/rmzaoo
+[youtube]: https://youtube.com/rmzaoo
+[instagram]: https://instagram.com/rmzaoo
+[linkedin]: https://linkedin.com/in/rafaelmartins2002
