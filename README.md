@@ -17,12 +17,12 @@
 <br /> 
 
 <a href="https://github.com/rmzaoo">
-  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=rmzaoo&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmzaoo&count_private=true&theme=dark" />
 </a>
 <br /> 
 
 <a href="https://github.com/rmzaoo">
-  <img align="left" alt="RMzaoo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rmzaoo&show_icons=true&hide_border=true" />
+  <img align="left" alt="RMzaoo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmzaoo&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 
 [website]: https://rafaelmartins.pt
