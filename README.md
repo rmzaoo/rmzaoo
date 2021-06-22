@@ -1,32 +1,28 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## Hey, I'm Rafael Martins!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I'm looking new projects
+<p align="left"> 
+  🌱 I’m currently learning everything.<br>
+  👯 I'm looking new projects.
+</p>
 
+<p align="left">
+  💼 <strong>C#, Javascript, Lua, Web Development and more.</strong>
+</p>
 
+<p align="left">
+  💌 Connect with me:
+</p>
 
-### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/rafaelmartins2002" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
-[<img align="left" alt="rafaelmartins.pt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br /> 
-
-<a href="https://github.com/rmzaoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmzaoo&count_private=true&theme=dark" />
-</a>
-<br /> 
-
-<a href="https://github.com/rmzaoo">
-  <img align="left" alt="RMzaoo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmzaoo&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
-</a>
-
-[website]: https://rafaelmartins.pt
-[twitter]: https://twitter.com/rmzaoo
-[youtube]: https://youtube.com/rmzaoo
-[instagram]: https://instagram.com/rmzaoo
-[linkedin]: https://linkedin.com/in/rafaelmartins2002
+  <!--<a href="https://rafaelmartins.pt"                  alt="website">
+  <img src="https://img.shields.io/badge/-Website-DF0174?style=flat-square&labelColor=eb4034&logo=website&logoColor=white"/></a>-->
+  
+  <a href="https://instagram.com/rafaelmartins.pt"    alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+  
+</p>
