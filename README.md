@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>C#, Javascript, Lua, Web Development and more.</strong>
+  💼 <strong>Frontend Developer | React, Typescript And Others</strong>
 </p>
 
 <p align="left">
