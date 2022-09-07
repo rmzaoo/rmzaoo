@@ -5,7 +5,6 @@
 
 <p align="left"> 
   🌱 I’m currently learning everything.<br>
-  👯 I'm looking new projects.
 </p>
 
 <p align="left">
